@@ -1,4 +1,4 @@
-main
+main.tf
 provider "aws" {
     region = "us-east-1"
     access_key = "AKIAXAXYR74L5GXIVL7D"
